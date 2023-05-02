@@ -9,10 +9,6 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 - Express for handling HTTP requests and routing
 - Jest for testing API endpoints
 
-### 📚 Prerequisites ###
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
 
 ### 🛠 Installation ###
 
@@ -27,7 +23,27 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
     ```
     npm install
     ```
+    
+### 📦 Dependencies ###
 
+     The command mentioned will install the following dependencies
+     express: ^4.18.2
+     axios: ^1.4.0
+     @types/express: ^4.17.17
+     @types/node: ^18.16.3
+     @babel/core: ^7.16.5
+     @babel/preset-env: ^7.21.5
+     @babel/preset-typescript: ^7.16.5
+     @types/jest: ^29.5.1
+     babel-jest: ^29.5.0
+     jest: ^29.5.0
+     ts-jest: ^29.1.0
+     typescript: ^5.0.4
+
+### 📚 Prerequisites ###
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
 
 ### 🖥 Usage ###
 
