@@ -69,7 +69,9 @@ The entity created and it's properties can be views under the URL `http://localh
 
 ### 🧪 Testing ###
 
-Run in the terminal the test using Jest:
+In this example, the test will examine and validate the properties of an entity and provide a result based on the evaluation.
+
+To run the test using Jest run in the terminal the command :
 
      
      npm test
