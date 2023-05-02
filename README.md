@@ -18,7 +18,7 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 
 1. Clone this repository:
 
-     git clone https://github.com/yourusername/rest.api.git
+     git clone https://github.com/Alkimik9000/api-start-express-ts
 
 2. Navigate to the project folder:
 
