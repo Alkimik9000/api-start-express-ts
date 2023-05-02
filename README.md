@@ -35,7 +35,6 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 
      ```
 npx tsc
-```
 
 
 2. Start the server with:
