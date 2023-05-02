@@ -22,7 +22,7 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 
 2. Navigate to the project folder:
 
-     cd rest.api
+     `cd rest.api`
 
 3. Install the dependencies:
 
@@ -43,7 +43,9 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 
 2. Start the server with:
 
+     ```
      npm start
+     ```
 
 The API will be running on `http://localhost:3000`.
 The entity created and it's properties can be views under the URL `http://localhost:3000/entity`.
@@ -52,7 +54,9 @@ The entity created and it's properties can be views under the URL `http://localh
 
 Run the tests using Jest:
 
+     ```
      npm test
+     ```
 
 
 ### 🔗 API Endpoints ###
