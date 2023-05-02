@@ -26,7 +26,8 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
     
 ### 📦 Dependencies ###
 
-     The command mentioned will install the following dependencies
+The `npm install` command should install the following required dependencies:
+
      express: ^4.18.2
      axios: ^1.4.0
      @types/express: ^4.17.17
