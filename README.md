@@ -40,7 +40,7 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
      npm start
 
 The API will be running on `http://localhost:3000`.
-The entity created and it's properties can be views under the URL 'http://localhost:3000/entity'
+The entity created and it's properties can be views under the on 'http://localhost:3000/entity'.
 
 ### 🧪 Testing ###
 
