@@ -13,9 +13,11 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 ### 🛠 Installation ###
 
 1. Clone this repository:
-
+     
+     ```
      git clone https://github.com/Alkimik9000/api-start-express-ts
-
+     ```
+     
 2. Navigate to the root directory of the cloned repository using the `cd` command
 
 3. Using the terminal, install the dependencies:
