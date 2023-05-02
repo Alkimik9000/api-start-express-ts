@@ -20,11 +20,9 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 
      git clone https://github.com/Alkimik9000/api-start-express-ts
 
-2. Navigate to the project folder:
+2. Navigate to the root directory of the cloned repository using the `cd` command
 
-     `cd rest.api`
-
-3. Install the dependencies:
+3. Using the terminal, install the dependencies:
 
     ```
     npm install
@@ -33,7 +31,7 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 
 ### 🖥 Usage ###
 
-1. Compile the TypeScript files with:
+1. Using the terminal, compile the TypeScript files with:
 
      
      ```
@@ -41,7 +39,7 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
      ```
 
 
-2. Start the server with:
+2. Using the terminal, start the server with:
 
      ```
      npm start
@@ -52,7 +50,7 @@ The entity created and it's properties can be views under the URL `http://localh
 
 ### 🧪 Testing ###
 
-Run the tests using Jest:
+Run in the terminal the test using Jest:
 
      
      npm test
