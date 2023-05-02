@@ -54,10 +54,9 @@ The entity created and it's properties can be views under the URL `http://localh
 
 Run the tests using Jest:
 
-     ```
+     
      npm test
-     ```
-
+     
 
 ### 🔗 API Endpoints ###
 
