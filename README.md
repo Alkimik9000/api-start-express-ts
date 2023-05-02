@@ -26,7 +26,9 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 
 3. Install the dependencies:
 
-    ```npm install```
+    ```
+    npm install
+    ```
 
 
 ### 🖥 Usage ###
@@ -34,7 +36,9 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 1. Compile the TypeScript files with:
 
      
-     ```npx tsc```
+     ```
+     npx tsc
+     ```
 
 
 2. Start the server with:
