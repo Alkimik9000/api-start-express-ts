@@ -1,10 +1,9 @@
 ## ------------- RESTful API Sample Project ------------- ##
 
-This is a RESTful API built using Node.js, Express, and TypeScript to manage and process data for a sample application. The project demonstrates how to create, organize, and test a simple API that can be used as a starting point for more complex projects.
+This is a RESTful API built using Node.js, Express, and TypeScript to manage and process data for a sample application. The project demonstrates how to test a simple API that can be used as a starting point for more complex projects.
 
 ### 🚀 Features ###
 
-- CRUD operations for managing data
 - TypeScript for better typing and improved maintainability
 - Express for handling HTTP requests and routing
 - Jest for testing API endpoints
@@ -23,7 +22,7 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 3. Using the terminal, install the dependencies:
 
     ```
-    npm install
+    npm install --save-dev typescript ts-node
     ```
     
 ### 📦 Dependencies ###
@@ -82,17 +81,11 @@ To run the test using Jest run in the terminal the command :
 The following API endpoints are available:
 
 - `GET /api/data`: Retrieve all data items
-- `GET /api/data/:id`: Retrieve a single data item by ID
-- `POST /api/data`: Create a new data item
-- `PUT /api/data/:id`: Update an existing data item by ID
-- `DELETE /api/data/:id`: Delete a data item by ID
+
 
 ### 📄 License ###
 
 This project is licensed under the ISC License. 
 
 
-npm install --save-dev typescript ts-node
-npx tsc
-npm start
-npm test
+
