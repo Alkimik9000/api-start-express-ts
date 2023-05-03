@@ -27,7 +27,7 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
     
 ### 📦 Dependencies ###
 
-The `npm install` command should install the following required dependencies:
+The `npm install --save-dev typescript ts-node` is used to install two development dependencies: typescript and ts-node. installing these packages will also install their own dependencies as part of the installation process. These are the dependencies that are required for the enviroment to function properly:
 
      express: ^4.18.2
      axios: ^1.4.0
