@@ -90,3 +90,9 @@ The following API endpoints are available:
 ### 📄 License ###
 
 This project is licensed under the ISC License. 
+
+
+npm install --save-dev typescript ts-node
+npx tsc
+npm start
+npm test
