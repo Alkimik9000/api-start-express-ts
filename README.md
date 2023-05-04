@@ -8,6 +8,10 @@ The RESTful API I have developed utilizes Node.js, Express, and TypeScript to cr
 - Express for handling HTTP requests and routing
 - Jest for testing API endpoints
 
+### 📚 Prerequisites ###
+
+Before running this program, ensure your system has Node.js (version 14 or higher) and npm (version 6 or higher) installed.
+
 ### 🛠 Installation ###
 
 To install the project on your local machine, follow these steps:
@@ -48,11 +52,6 @@ Here are the necessary dependencies for the environment to function correctly:
      * ts-jest: ^29.1.0
      * typescript: ^5.0.4
 
-### 📚 Prerequisites ###
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
-
 ### 🖥 Usage ###
 
 1. To compile the TypeScript files, use the terminal and enter the following command:
@@ -89,6 +88,3 @@ The following API endpoints are currently available:
 ### 📄 License ###
 
 This project is governed by the ISC License.
-
-
-
