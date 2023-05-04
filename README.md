@@ -10,17 +10,21 @@ The RESTful API I have developed utilizes Node.js, Express, and TypeScript to cr
 
 ### 🛠 Installation ###
 
-1. To install the project, navigate to the desired directory on your local machine.
+To install the project on your local machine, follow these steps:
 
-2. Clone the repository using the following command in your terminal or command prompt.
+1. Open a terminal or command prompt.
+
+2. Navigate to the directory where the project will be installed using the `cd` command in your terminal.
+
+3. To clone the repository, enter the following command in your terminal or command prompt.
      
      ```
      git clone https://github.com/Alkimik9000/api-start-express-ts
      ```
      
-3. To navigate to the root directory of the cloned repository on your local machine, use the "cd" command.
+4. Use the `cd` command to navigate to the root directory of the cloned repository. Make sure the directory path ends with `/api-start-express-ts`.
 
-4. Once you've navigated to the root directory of the repository in your terminal or command prompt, install the necessary dependencies by running the command below:
+5. Once you've navigated to the root directory of the repository in your terminal or command prompt, install the necessary dependencies by running the command below:
 
     ```
     npm install --save-dev typescript ts-node
