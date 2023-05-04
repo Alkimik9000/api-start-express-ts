@@ -68,7 +68,7 @@ Here are the necessary dependencies for the environment to function correctly:
      npm start
      ```
 
-The API will operate on `http://localhost:3000`. You can then access the entity and its properties by adding `/entity` to the end of the URL, like this: `http://localhost:3000/entity`.
+The server will operate on `http://localhost:3000`. You can then access the entity and its properties by adding `/entity` to the end of the URL, like this: `http://localhost:3000/entity`.
 
 ### 🧪 Testing ###
 
