@@ -20,7 +20,7 @@ To install the project on your local machine, follow these steps:
 
 2. Navigate to the directory where the project will be installed using the `cd` command in your Terminal or Command Prompt.
 
-3. To clone the repository, enter the following command in your Terminal or Command Prompt.
+3. Clone the repository by entering the following command:
      
      ```
      git clone https://github.com/Alkimik9000/api-start-express-ts
