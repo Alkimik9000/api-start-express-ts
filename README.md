@@ -36,18 +36,18 @@ By entering the command `npm install --save-dev typescript ts-node`, you will in
 
 Here are the necessary dependencies for the environment to function correctly:
 
-     + express: ^4.18.2
-     + axios: ^1.4.0
-     + @types/express: ^4.17.17
-     + @types/node: ^18.16.3
-     + @babel/core: ^7.16.5
-     + @babel/preset-env: ^7.21.5
-     + @babel/preset-typescript: ^7.16.5
-     + @types/jest: ^29.5.1
-     + babel-jest: ^29.5.0
-     + jest: ^29.5.0
-     + ts-jest: ^29.1.0
-     + typescript: ^5.0.4
+     * express: ^4.18.2
+     * axios: ^1.4.0
+     * @types/express: ^4.17.17
+     * @types/node: ^18.16.3
+     * @babel/core: ^7.16.5
+     * @babel/preset-env: ^7.21.5
+     * @babel/preset-typescript: ^7.16.5
+     * @types/jest: ^29.5.1
+     * babel-jest: ^29.5.0
+     * jest: ^29.5.0
+     * ts-jest: ^29.1.0
+     * typescript: ^5.0.4
 
 ### 📚 Prerequisites ###
 
