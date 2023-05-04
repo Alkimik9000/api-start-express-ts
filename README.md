@@ -16,11 +16,11 @@ Before running this program, ensure your system has Node.js (version 14 or highe
 
 To install the project on your local machine, follow these steps:
 
-1. Open either the terminal or command prompt, depending on your operating system.
+1. Open either the Terminal or Command Prompt, depending on your operating system.
 
-2. Navigate to the directory where the project will be installed using the `cd` command in your terminal.
+2. Navigate to the directory where the project will be installed using the `cd` command in your Terminal or Command Prompt.
 
-3. To clone the repository, enter the following command in your terminal or command prompt.
+3. To clone the repository, enter the following command in your Terminal or Command Prompt.
      
      ```
      git clone https://github.com/Alkimik9000/api-start-express-ts
@@ -28,7 +28,7 @@ To install the project on your local machine, follow these steps:
      
 4. Use the `cd` command to navigate to the root directory of the cloned repository. Make sure the directory path ends with `/api-start-express-ts`.
 
-5. Once you've navigated to the root directory of the repository in your terminal or command prompt, install the necessary dependencies by running the command below:
+5. Once you've navigated to the root directory of the repository in your Terminal or Command Prompt, install the necessary dependencies by running the command below:
 
     ```
     npm install --save-dev typescript ts-node
@@ -54,7 +54,7 @@ Here are the necessary dependencies for the environment to function correctly:
 
 ### 🖥 Usage ###
 
-1. To compile the TypeScript files, use the terminal or command prompt and enter the following command:
+1. To compile the TypeScript files, use the Terminal or Command Prompt and enter the following command:
 
      
      ```
@@ -74,7 +74,7 @@ The API will operate on `http://localhost:3000`. You can then access the entity 
 
 In this example, the test will assess and confirm the qualities of an object and then deliver a conclusion based on the assessment.
 
-To perform a test using Jest, enter the following command in your terminal or command prompt:
+To perform a test using Jest, enter the following command in your Terminal or Command Prompt:
 
      npm test
 
