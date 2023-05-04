@@ -77,6 +77,8 @@ In this example, the test will assess and confirm the entity's attributes access
 To perform a test using Jest, enter the following command in your Terminal or Command Prompt:
 
      npm test
+     
+*Note:* Since the server is already running in the current Terminal or Command Prompt instance, please open a new instance to execute the npm test command. It is important to keep the Terminal or Command Prompt with the running server open while running the tests to ensure proper execution and avoid any interruption of the server.
 
 ### 🔗 API Endpoints ###
 
