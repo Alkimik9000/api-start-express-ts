@@ -80,10 +80,9 @@ To perform a test using Jest, enter the following command in your Terminal or Co
 
 ### 🔗 API Endpoints ###
 
-The following API endpoints are currently available:
+There is an API endpoint available for interacting with the project data, which is:
 
-- `GET /api/data`: Retrieve all data items
-
+`GET /api/data`: Retrieve all data items from the project's database.
 
 ### 📄 License ###
 
