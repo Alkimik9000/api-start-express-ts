@@ -74,12 +74,12 @@ The server will operate on `http://localhost:3000`. You can then access the enti
 
 In this example, the test will assess and confirm the entity's attributes accessed through the endpoint URL `http://localhost:3000/entity`, then deliver a conclusion based on the assessment.
 
+**Note:** Since the server is already running in the current Terminal or Command Prompt instance, please open a new instance to execute the npm test command. Keeping the Terminal or Command Prompt with the running server open while running the tests is essential to ensure proper execution and avoid any server interruption.
+
 To perform a test using Jest, enter the following command in your Terminal or Command Prompt:
 
      npm test
      
-**Note:** Since the server is already running in the current Terminal or Command Prompt instance, please open a new instance to execute the npm test command. It is important to keep the Terminal or Command Prompt with the running server open while running the tests to ensure proper execution and avoid any interruption of the server.
-
 ### 🔗 API Endpoints ###
 
 There is an API endpoint available for interacting with the project data, which is:
