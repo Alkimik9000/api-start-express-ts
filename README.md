@@ -26,7 +26,7 @@ To install the project on your local machine, follow these steps:
      git clone https://github.com/Alkimik9000/api-start-express-ts
      ```
      
-4. Use the `cd` command to navigate to the root directory of the cloned repository. Make sure the directory path ends with `/api-start-express-ts`.
+4. Use the `cd` command to navigate to the root directory of the cloned repository. Make sure the directory path ends with `api-start-express-ts`.
 
 5. Once you've navigated to the root directory of the repository in your Terminal or Command Prompt, install the necessary dependencies by running the command below:
 
