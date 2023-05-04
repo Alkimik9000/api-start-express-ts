@@ -82,7 +82,7 @@ To perform a test using Jest, enter the following command in your Terminal or Co
 
 There is an API endpoint available for interacting with the project data, which is:
 
-`GET /api/data`: Retrieve all data items from the project's database.....
+`GET /api/data`: Retrieve all data items from the project's database.
 
 ### 📄 License ###
 
