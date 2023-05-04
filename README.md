@@ -28,8 +28,7 @@ To install the project on your local machine, follow these steps:
 
     ```
     npm install --save-dev typescript ts-node
-    ```
-    
+    ``` 
 ### 📦 Dependencies ###
 
 By entering the command `npm install --save-dev typescript ts-node`, you will install two dev dependencies: typescript and ts-node, along with their respective dependencies.
