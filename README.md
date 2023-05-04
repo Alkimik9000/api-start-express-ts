@@ -16,7 +16,7 @@ Before running this program, ensure your system has Node.js (version 14 or highe
 
 To install the project on your local machine, follow these steps:
 
-1. Open a terminal or command prompt.
+1. open either the terminal or command prompt, depending on your operating system.
 
 2. Navigate to the directory where the project will be installed using the `cd` command in your terminal.
 
