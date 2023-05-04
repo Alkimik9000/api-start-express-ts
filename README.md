@@ -1,6 +1,6 @@
 ## ------- RESTful API Sample Project ------- ##
 
-This is a RESTful API built using Node.js, Express, and TypeScript to manage and process data for a sample application. The project demonstrates how to test a simple API that can be used as a starting point for more complex projects.
+The RESTful API I have developed utilizes Node.js, Express, and TypeScript to create a local server with data available through an endpoint. The project showcases the testing process for the sample API.
 
 ### 🚀 Features ###
 
@@ -8,18 +8,19 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
 - Express for handling HTTP requests and routing
 - Jest for testing API endpoints
 
-
 ### 🛠 Installation ###
 
-1. Clone this repository:
+1. To install the project, navigate to the desired directory on your local machine.
+
+2. Clone the repository using the following command in your terminal or command prompt.
      
      ```
      git clone https://github.com/Alkimik9000/api-start-express-ts
      ```
      
-2. Navigate to the root directory of the cloned repository using the `cd` command
+3. To navigate to the root directory of the cloned repository on your local machine, use the "cd" command.
 
-3. Using the terminal, install the dependencies:
+4. Once you've navigated to the root directory of the repository in your terminal or command prompt, install the necessary dependencies by running the command below:
 
     ```
     npm install --save-dev typescript ts-node
@@ -27,20 +28,22 @@ This is a RESTful API built using Node.js, Express, and TypeScript to manage and
     
 ### 📦 Dependencies ###
 
-The `npm install --save-dev typescript ts-node` is used to install two development dependencies: typescript and ts-node. installing these packages will also install their own dependencies as part of the installation process. These are the dependencies that are required for the enviroment to function properly:
+By entering the command `npm install --save-dev typescript ts-node`, you will install two dev dependencies: typescript and ts-node, along with their respective dependencies.
 
-     express: ^4.18.2
-     axios: ^1.4.0
-     @types/express: ^4.17.17
-     @types/node: ^18.16.3
-     @babel/core: ^7.16.5
-     @babel/preset-env: ^7.21.5
-     @babel/preset-typescript: ^7.16.5
-     @types/jest: ^29.5.1
-     babel-jest: ^29.5.0
-     jest: ^29.5.0
-     ts-jest: ^29.1.0
-     typescript: ^5.0.4
+Here are the necessary dependencies for the environment to function correctly:
+
+     + express: ^4.18.2
+     + axios: ^1.4.0
+     + @types/express: ^4.17.17
+     + @types/node: ^18.16.3
+     + @babel/core: ^7.16.5
+     + @babel/preset-env: ^7.21.5
+     + @babel/preset-typescript: ^7.16.5
+     + @types/jest: ^29.5.1
+     + babel-jest: ^29.5.0
+     + jest: ^29.5.0
+     + ts-jest: ^29.1.0
+     + typescript: ^5.0.4
 
 ### 📚 Prerequisites ###
 
@@ -49,7 +52,7 @@ The `npm install --save-dev typescript ts-node` is used to install two developme
 
 ### 🖥 Usage ###
 
-1. Using the terminal, compile the TypeScript files with:
+1. To compile the TypeScript files, use the terminal and enter the following command:
 
      
      ```
@@ -57,35 +60,32 @@ The `npm install --save-dev typescript ts-node` is used to install two developme
      ```
 
 
-2. Using the terminal, start the server with:
+2. To start the server, execute the following command:
 
      ```
      npm start
      ```
 
-The API will be running on `http://localhost:3000`.
-The entity created and it's properties can be views under the URL `http://localhost:3000/entity`.
+The API will operate on `http://localhost:3000`. You can then access the entity and its properties by adding `/entity` to the end of the URL, like this: `http://localhost:3000/entity`.
 
 ### 🧪 Testing ###
 
-In this example, the test will examine and validate the properties of an entity and provide a result based on the evaluation.
+In this example, the test will assess and confirm the qualities of an object and then deliver a conclusion based on the assessment.
 
-To run the test using Jest run in the terminal the command :
+To perform a test using Jest, enter the following command in your terminal:
 
-     
      npm test
-     
 
 ### 🔗 API Endpoints ###
 
-The following API endpoints are available:
+The following API endpoints are currently available:
 
 - `GET /api/data`: Retrieve all data items
 
 
 ### 📄 License ###
 
-This project is licensed under the ISC License. 
+This project is governed by the ISC License.
 
 
 
