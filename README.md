@@ -1,6 +1,6 @@
 ## ------- RESTful API Sample Project ------- ##
 
-The RESTful API I have developed utilizes Node.js, Express, and TypeScript to create a local server with data available through an endpoint. The project showcases the testing process for the sample API.
+The RESTful API I have developed utilizes Node.js, Express, and TypeScript. With this API, you can create a local server to access data through an endpoint. The project also includes a testing process applied to the sample API.
 
 ### 🚀 Features ###
 
