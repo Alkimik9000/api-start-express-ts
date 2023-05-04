@@ -5,7 +5,9 @@ The RESTful API I've created uses Node.js, Express, and TypeScript to create a s
 ### 🚀 Features ###
 
 • TypeScript for enhanced type checking, improved maintainability and consistent data handling
+
 • Express for handling HTTP requests and define the route for the API endpoint used in the project
+
 • Jest for testing API endpoints
 
 ### 📚 Prerequisites ###
