@@ -76,9 +76,9 @@ In this example, the test will assess and confirm the entity's attributes access
 
 **Note:** Since the server is already running in the current Terminal or Command Prompt instance, please open a new instance to run a test. Keeping the Terminal or Command Prompt with the running server open while running the tests is essential to ensure proper execution and avoid any server interruption.
 
-Before running the tests, navigate to the root directory of the cloned repository using the `cd` command in the new Terminal or Command Prompt instance. Make sure the directory path ends with `api-start-express-ts`.
+Before running a test, navigate to the root directory of the cloned repository using the `cd` command in the new Terminal or Command Prompt instance. Make sure the directory path ends with `api-start-express-ts`.
 
-To perform a test using Jest, enter the following command:
+To perform a test using TypeScript and Jest, enter the following command:
 
      npm test
      
