@@ -54,7 +54,7 @@ Here are the necessary dependencies for the environment to function correctly:
 
 ### 🖥 Usage ###
 
-1. To compile the TypeScript files, use the terminal and enter the following command:
+1. To compile the TypeScript files, use the terminal or command prompt and enter the following command:
 
      
      ```
@@ -74,7 +74,7 @@ The API will operate on `http://localhost:3000`. You can then access the entity 
 
 In this example, the test will assess and confirm the qualities of an object and then deliver a conclusion based on the assessment.
 
-To perform a test using Jest, enter the following command in your terminal:
+To perform a test using Jest, enter the following command in your terminal or command prompt:
 
      npm test
 
