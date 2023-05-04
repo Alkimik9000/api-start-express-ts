@@ -72,7 +72,7 @@ The server will operate on `http://localhost:3000`. You can then access the enti
 
 ### 🧪 Testing ###
 
-In this example, the test will assess and confirm the qualities of an object and then deliver a conclusion based on the assessment.
+In this example, the test will assess and confirm the entity's attributes accessed through the endpoint URL `http://localhost:3000/entity`, then deliver a conclusion based on the assessment.
 
 To perform a test using Jest, enter the following command in your Terminal or Command Prompt:
 
