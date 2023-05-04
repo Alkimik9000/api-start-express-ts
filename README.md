@@ -76,7 +76,7 @@ In this example, the test will assess and confirm the entity's attributes access
 
 **Note:** Since the server is already running in the current Terminal or Command Prompt instance, please open a new instance to run a test. Keeping the Terminal or Command Prompt with the running server open while running the tests is essential to ensure proper execution and avoid any server interruption.
 
-To perform a test using Jest, enter the following command in your Terminal or Command Prompt:
+To perform a test using Jest, enter the following command:
 
      npm test
      
