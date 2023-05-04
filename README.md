@@ -18,7 +18,7 @@ To install the project on your local machine, follow these steps:
 
 1. Open either the Terminal or Command Prompt, depending on your OS.
 
-2. Navigate to the directory where the project will be installed using the `cd` command in your Terminal or Command Prompt.
+2. Use the `cd` command in your Terminal or Command Prompt to navigate to the directory where you wish to download the repository.
 
 3. Clone the repository by entering the following command:
      
